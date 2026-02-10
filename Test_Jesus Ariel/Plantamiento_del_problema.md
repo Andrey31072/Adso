@@ -1,0 +1,4 @@
+Actualmente el cafetin presenta multiples problemas al momento de brindar atencion al cliente como filas extensas, demoras en la atencion al cliente y errores al momento de tomar un pedido. Segun observamos podemos evidenciar que el proceso que se lleva actualmente es un proceso dificulta  el control de pedidos y al momento de ordenar genera una leve confusion en preparacion y afecta la experencia a los aprendices, instrctores y personal administrativo de la sede industria.
+
+Entonces se ah planteando la idea de crear un sistema digital que va permitir realizar pedidos de una forma mas rapido y eficente, tambien ayudara  a organizar el flujo de atencion y facilitar al persona del cafetin la gestion, la preparación y que las entregas de pedido sea de una manera mas rapida, ordenada y eficiente en tema de productividad.
+
